@@ -21,21 +21,21 @@ The data for this project is gathered by scraping the UH Manoa spring ‘23 regi
 
 ## Outline:
 
-I. Project Overview
-II. Weaviate Overview
-----Architecture Overview
-----Vectors and Vector Index
-------kNN vs ANN
-------HNSW
-III. Vector Database Demonstration
-----Data and Vectors
-----Weaviate Database Instance
-----Semantic Search Queries
-IV. Visualizations
-----PCA
-----t-SNE
-----UMAP
-V. Conclusion
+I. Project Overview <br>
+II. Weaviate Overview<br>
+----Architecture Overview<br>
+----Vectors and Vector Index<br>
+------kNN vs ANN<br>
+------HNSW<br>
+III. Vector Database Demonstration<br>
+----Data and Vectors<br>
+----Weaviate Database Instance<br>
+----Semantic Search Queries<br>
+IV. Visualizations<br>
+----PCA<br>
+----t-SNE<br>
+----UMAP<br>
+V. Conclusion<br>
 
 
 
